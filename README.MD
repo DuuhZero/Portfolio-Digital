@@ -29,7 +29,7 @@
     Trabalhei no projeto da API em parceria com um professor da Fatec SJC, sendo um cliente interno. O objetivo foi desenvolver um Sistema de Controle de Estoque focado em permitir o registro e controle automatizado de produtos, gerenciamento de fornecedores via cadastro e acompanhamento de movimentações internas no estoque, contendo também relatórios estratégicos, que possa gerar insights para otimizar o nível de estoque e melhores tomadas de decisões. A aplicação visa facilitar o controle de estoque em tempo real, aumentando sua eficiência operacional, reduzindo erros manuais junto de uma interface acessível. [Link para o GitHub](https://github.com/EquipeSkyfall/API_2Semestre)
 
     ### Aplicação
-    <img src="https://github.com/DuuhZero/Portfolio-Digital/blob/main/mgt/Prostock_MVP.mp4">
+    <img src="https://github.com/DuuhZero/Portfolio-Digital/tree/main/mgt/Prostock_MVP.mp4">
 
     ### Tecnologias Utilizadas
     React, Node.js, Tailwindcss, Typescript, Javascript, Prisma, Figma, Git.
@@ -49,10 +49,10 @@
     ### Aplicação
 
     #### Cargo Gestor
-    <img src="https://github.com/DuuhZero/Portfolio-Digital/blob/main/mgt/necto_MVP.webm">
+    <img src="https://github.com/DuuhZero/Portfolio-Digital/tree/main/mgt/necto_MVP.webm">
 
     #### Cargo Colaborador
-    <img src="https://github.com/DuuhZero/Portfolio-Digital/blob/main/mgt/necto_MVP_colaborador.webm">
+    <img src="https://github.com/DuuhZero/Portfolio-Digital/tree/main/mgt/necto_MVP_colaborador.webm">
 
     ### Tecnologias Utilizadas
     React, Typescript, Tailwindcss, Java, Spring-Boot, Mongodb, Git, Figma.
