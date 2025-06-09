@@ -8,6 +8,10 @@
     Trabalhei no projeto da API em parceria com o grupo I9 de Manufatura Avançada da Fatec SJC, no projeto Smart Farming. O objetivo foi automatizar a coleta e o tratamento de dados provenientes de sensores, substituindo processos manuais por uma solução web eficiente, com dashboards e visualização dos dados em tempo real. A aplicação visa melhorar a tomada de decisão, aumentar a eficiência operacional e oferecer uma interface acessível mesmo para usuários sem conhecimento técnico, também foi realizado processos de conteinerização usando nuvem AWS.
     [Link para o GitHub](https://github.com/CyberScrums/Projeto-Smart-Farming)
 
+    ### Aplicação
+
+    <img src="https://github.com/CyberScrums/Projeto-Smart-Farming/blob/main/docs/sprint/sprint_4.gif">
+
     ### Tecnologias Utilizadas
     HTML, CSS, Flask, Python, Jupyter, Bootstrap, Pandas, Docker, MySQL, Javascript, Figma, Git, Docker, Aws.
 
@@ -24,7 +28,9 @@
 * ## **Em 2024-2**:
     Trabalhei no projeto da API em parceria com um professor da Fatec SJC, sendo um cliente interno. O objetivo foi desenvolver um Sistema de Controle de Estoque focado em permitir o registro e controle automatizado de produtos, gerenciamento de fornecedores via cadastro e acompanhamento de movimentações internas no estoque, contendo também relatórios estratégicos, que possa gerar insights para otimizar o nível de estoque e melhores tomadas de decisões. A aplicação visa facilitar o controle de estoque em tempo real, aumentando sua eficiência operacional, reduzindo erros manuais junto de uma interface acessível. [Link para o GitHub](https://github.com/EquipeSkyfall/API_2Semestre)
 
-    
+    ### Aplicação
+    <img src="https://github.com/DuuhZero/Portfolio-Digital/blob/main/mgt/Prostock_MVP.mp4">
+
     ### Tecnologias Utilizadas
     React, Node.js, Tailwindcss, Typescript, Javascript, Prisma, Figma, Git.
 
@@ -39,6 +45,14 @@
 
 * ## **Em 2025-1**:
     Trabalhei no projeto da API com o Parceiro Acadêmico Necto. Foi notado pela empresa que seu sistema de gerenciamento de ponto eletrônico atual não atinge todas as necessidades de maneira satisfatório. O objetivo do projeto, sabendo disto, é desenvolver um Sistema de Controle de Ponto Eletrônico, focado em um gerênciamento eficaz de colaboradores, permitindo o registro e controle de marcações de ponto, acompanhamento de horas extras, gestão de férias e folgas e geração de históricos para visualização frequente da presença dos funcionários. O sistema também contém solicitações que podem ser enviadas ao Gestores da Necto, que é possível ser notado por meio de notificações. A aplicação visa facilitar o controle de marcação de ponto em tempo real, aumentando a eficiência por meio de uma interface amigável e relatórios claros. [Link para o GitHub](https://github.com/Equipe-Skyfall/nectopoint)
+
+    ### Aplicação
+
+    #### Cargo Gestor
+    https://github.com/user-attachments/assets/f4aee364-e657-4a49-9308-d1d89197218c
+
+    #### Cargo Colaborador
+    https://github.com/user-attachments/assets/c6a7ddb3-d6cf-4b0f-8855-7e5f065e27b5
 
     ### Tecnologias Utilizadas
     React, Typescript, Tailwindcss, Java, Spring-Boot, Mongodb, Git, Figma.
