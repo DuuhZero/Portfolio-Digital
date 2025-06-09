@@ -50,10 +50,10 @@
 
     #### Cargo Gestor
     
-    https://github.com/user-attachments/assets/c6a7ddb3-d6cf-4b0f-8855-7e5f065e27b5
+    https://github.com/user-attachments/assets/2390bfe5-8d6d-408a-a482-b8700bd10d5d
 
     #### Cargo Colaborador
-    https://github.com/user-attachments/assets/2390bfe5-8d6d-408a-a482-b8700bd10d5d
+    https://github.com/user-attachments/assets/c6a7ddb3-d6cf-4b0f-8855-7e5f065e27b5
 
     ### Tecnologias Utilizadas
     React, Typescript, Tailwindcss, Java, Spring-Boot, Mongodb, Git, Figma.
