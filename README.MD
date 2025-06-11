@@ -73,7 +73,7 @@
 # _Tecnologias Conhecidas_
 
 <a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=git,vscode,python,javascript,typescript,css,html,react,tailwind,kali,java,nodejs,vue,docker,figma,github,flask,linux,postman,vercel,vite,bootstrap,mongodb,mysql,sqlite,discord,linkedin,instagram,spring,aws,c" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,python,javascript,typescript,css,html,react,tailwind,kali,java,nodejs,vue,docker,figma,github,flask,linux,postman,vercel,vite,bootstrap,mongodb,mysql,sqlite,spring,aws,c" />
 </a>
 
 # _Contato_
