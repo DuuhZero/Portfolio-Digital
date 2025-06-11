@@ -64,7 +64,7 @@
     Todo o trabalho de estilização da interface, bem como o desenvolvimento de animações e microinterações que enriquecem a experiência do usuário, foi integralmente produzido por mim. Mantive o rigor nas boas práticas de desenvolvimento, realizando a correta componentização, refatoração e isolamento de elementos da interface, visando a escalabilidade e a manutenibilidade do projeto.
 
     ### Hard Skills Efetivamente Desenvolvidas
-    Filtros Dinâmicos e Otimização de Listagens, Design de UI/UX, Qualidade de Código, Componentização e Arquitetura Frontend.
+    Filtros Dinâmicos e Otimização de Listagens, Qualidade de Código, Componentização e Arquitetura Frontend.
 
     ### Soft Skills Efetivamente Desenvolvidas
     Entrega de Resultados, Autonomia, Comunicação Eficaz, Trabalho em Equipe, Flexibilidade, Pensamento Crítico.
