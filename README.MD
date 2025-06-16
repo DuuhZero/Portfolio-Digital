@@ -64,11 +64,10 @@
     Todo o trabalho de estilização da interface, bem como o desenvolvimento de animações e microinterações que enriquecem a experiência do usuário, foi integralmente produzido por mim. Mantive o rigor nas boas práticas de desenvolvimento, realizando a correta componentização, refatoração e isolamento de elementos da interface, visando a escalabilidade e a manutenibilidade do projeto.
 
     ### Hard Skills Efetivamente Desenvolvidas
-    Filtros Dinâmicos e Otimização de Listagens, Requisição por meio de rotas, Componentização e Arquitetura de código.
+    Atuei diretamente na implementação de filtros dinâmicos e otimização de listagens, criando mecanismos avançados de busca que permitiam filtrar colaboradores por nome, cargo, período de marcação e status de solicitações. Essa funcionalidade foi essencial para agilizar a consulta de dados, evitando a sobrecarga de requisições e renderização condicional para exibir apenas os resultados relevantes. Além disso, trabalhei com requisições por meio de rotas da API, integrando o frontend com o backend para buscar históricos de ponto, enviar solicitações de férias e atualizar notificações em tempo real. Para garantir uma arquitetura limpa e escalável, apliquei componentização e boas práticas de estruturação de código, modularizando funcionalidades como tabelas de registros, modais de confirmação e sistemas de alerta, o que facilitou a manutenção e a reutilização de componentes em diferentes partes da aplicação. Essas habilidades foram fundamentais para assegurar um sistema eficiente, com desempenho otimizado e uma experiência de usuário fluída.
 
     ### Soft Skills Efetivamente Desenvolvidas
-    Colaboração efetiva, Autonomia, Suporte de Desenvolvimento, Trabalho em Equipe.
-
+    Ao longo do projeto, destaquei-me pela proatividade e capacidade de colaboração, características frequentemente reconhecidas pelos membros da equipe. Sempre que surgiam desafios técnicos ou ajustes necessários, tomei a iniciativa de propor soluções e auxiliar meus colegas, seja na resolução de problemas complexos ou na otimização de tarefas. Minha postura de suporte ao desenvolvimento foi essencial para manter o fluxo de trabalho eficiente, especialmente em momentos críticos, onde compartilhei conhecimentos sobre a estrutura do código e ajudei na integração de componentes. Além disso, demonstrei adaptabilidade e trabalho em equipe, ajustando-me às demandas dinâmicas do projeto e contribuindo para um ambiente colaborativo, onde feedbacks eram trocados de forma construtiva. Essa atitude não apenas facilitou a superação de adversidades, mas também fortaleceu a coesão do grupo, assegurando que os objetivos fossem alcançados com qualidade e dentro dos prazos estabelecidos.
 
 # _Tecnologias Conhecidas_
 
